@@ -1,0 +1,14 @@
+/Users/hagaifhima/Projects/Search/Search/bin/Debug/netcoreapp2.1/Search.deps.json
+/Users/hagaifhima/Projects/Search/Search/bin/Debug/netcoreapp2.1/Search.runtimeconfig.json
+/Users/hagaifhima/Projects/Search/Search/bin/Debug/netcoreapp2.1/Search.runtimeconfig.dev.json
+/Users/hagaifhima/Projects/Search/Search/bin/Debug/netcoreapp2.1/Search.dll
+/Users/hagaifhima/Projects/Search/Search/bin/Debug/netcoreapp2.1/Search.pdb
+/Users/hagaifhima/Projects/Search/Search/obj/Debug/netcoreapp2.1/Search.csprojAssemblyReference.cache
+/Users/hagaifhima/Projects/Search/Search/obj/Debug/netcoreapp2.1/Search.csproj.CoreCompileInputs.cache
+/Users/hagaifhima/Projects/Search/Search/obj/Debug/netcoreapp2.1/Search.RazorAssemblyInfo.cache
+/Users/hagaifhima/Projects/Search/Search/obj/Debug/netcoreapp2.1/Search.RazorAssemblyInfo.cs
+/Users/hagaifhima/Projects/Search/Search/obj/Debug/netcoreapp2.1/Search.AssemblyInfoInputs.cache
+/Users/hagaifhima/Projects/Search/Search/obj/Debug/netcoreapp2.1/Search.AssemblyInfo.cs
+/Users/hagaifhima/Projects/Search/Search/obj/Debug/netcoreapp2.1/Search.RazorTargetAssemblyInfo.cache
+/Users/hagaifhima/Projects/Search/Search/obj/Debug/netcoreapp2.1/Search.dll
+/Users/hagaifhima/Projects/Search/Search/obj/Debug/netcoreapp2.1/Search.pdb
